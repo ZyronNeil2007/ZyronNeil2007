@@ -41,16 +41,16 @@ Web Development | UI/UX Design | Publication & Graphic Design | Software Customi
   <a href="[Your LinkedIn Profile URL]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[Your Email Address]" target="_blank">
+  <a href="mailto:[zyronneilbautista10@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="[Your Portfolio URL]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio">
   </a>
-  <a href="[Your Instagram URL]" target="_blank">
+  <a href="[https://www.instagram.com/zyronneil10]" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="[Your Facebook URL]" target="_blank">
+  <a href="[https://www.facebook.com/zyronneil10]" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="[Your Twitter/X URL]" target="_blank">
