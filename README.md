@@ -20,7 +20,7 @@ Web Development | UI/UX Design | Publication & Graphic Design | Software Customi
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,cs,java,py&perline=8" alt="Programming Languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,tailwind,threejs,mysql,figma,ps,github&perline=8" alt="Frameworks and Design Tools" />
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,tailwind,threejs,mysql,figma,ps,github,canva&perline=8" alt="Frameworks and Design Tools" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
