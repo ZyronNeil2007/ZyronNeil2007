@@ -2,7 +2,7 @@
 
 <!-- You can add a banner image here. Given your design preferences, a banner featuring glassmorphism and yellow accents would look great! -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFF00?text=Zyron+Neil+Alegre+Bautista+-+Welcome+to+my+Profile" alt="Banner Image">
+  <img src="myBanner.img=Zyron+Neil+Alegre+Bautista+-+Welcome+to+my+Profile" alt="Banner Image">
 </div>
 
 <br>
