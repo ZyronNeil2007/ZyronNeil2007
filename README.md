@@ -9,7 +9,7 @@
 
 Hello! 🚀 My name is **Zyron Neil Alegre Bautista**. I am from Isabela State University Cabagan Campus taking BS in Computer Science. 🎓
 
-I have a huge interest in web development, UI/UX design (especially Apple-inspired aesthetics, spatial UI, and glassmorphism ✨), and coding! Currently serving as the Head Layout Artist for the student organization in the College of Engineering and College of Computing Studies, Information and Communication Technology, as well as a student layout artist for The Geyser Publication. 📰
+I have a huge interest in web development, UI/UX design (especially minimalist aesthetics, spatial UI, and glassmorphism ✨), and coding! Currently serving as the Head Layout Artist for the student organization in the College of Engineering and College of Computing Studies, Information and Communication Technology, as well as a student layout artist for The Geyser Publication. 📰
 
 I love to build responsive websites, design interactive 3D elements, and occasionally explore mobile software customization. 📱
 
